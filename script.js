@@ -166,7 +166,7 @@ function stopstp(){
 }
 
 //generating quotes
-setInterval(generatequotes,1000);
+setInterval(generatequotes,5000);
 
 
 
